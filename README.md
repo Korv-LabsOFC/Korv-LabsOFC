@@ -2,6 +2,8 @@
 
 <img src="./profile/korv-labs-banner.png" width="100%" alt="KORV Labs — Build. Innovate. Evolve." />
 
+<img src="./profile/korv-labs-mark.png" width="136" alt="Símbolo KORV Labs" />
+
 <br />
 
 <a href="https://github.com/Korv-LabsOFC">
@@ -42,6 +44,18 @@ A ideia é transformar conceitos em produtos úteis: projetar, construir, testar
 </table>
 
 ## ✦ Projetos em destaque
+
+<div align="center">
+
+| **Karnel Termux** | **Kadris IDE** |
+|:---:|:---:|
+| <a href="https://github.com/Korv-LabsOFC/karnel-termux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korv-LabsOFC&repo=karnel-termux&theme=transparent&hide_border=true" width="100%" alt="Karnel Termux repository card" /></a> | <a href="https://github.com/Korv-LabsOFC/kadris-ide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korv-LabsOFC&repo=kadris-ide&theme=transparent&hide_border=true" width="100%" alt="Kadris IDE repository card" /></a> |
+| **Nearbit** | **Karnel Termux Docs** |
+| <a href="https://github.com/Korv-LabsOFC/nearbit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korv-LabsOFC&repo=nearbit&theme=transparent&hide_border=true" width="100%" alt="Nearbit repository card" /></a> | <a href="https://github.com/Korv-LabsOFC/karnel-termux-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korv-LabsOFC&repo=karnel-termux-site&theme=transparent&hide_border=true" width="100%" alt="Karnel documentation repository card" /></a> |
+| **Karnel Plugins** | **Karnel Env Paths** |
+| <a href="https://github.com/Korv-LabsOFC/karnel-plugins"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korv-LabsOFC&repo=karnel-plugins&theme=transparent&hide_border=true" width="100%" alt="Karnel plugins repository card" /></a> | <a href="https://github.com/Korv-LabsOFC/karnel-env-paths"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korv-LabsOFC&repo=karnel-env-paths&theme=transparent&hide_border=true" width="100%" alt="Karnel env paths repository card" /></a> |
+
+</div>
 
 ### 🌐 Nexus — Social Network
 
