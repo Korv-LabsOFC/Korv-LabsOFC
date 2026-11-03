@@ -1,179 +1,56 @@
 <div align="center">
 
-<img src="./profile/header.svg" width="100%" alt="Israel Marques — Fullstack Developer in Training" />
+<img src="./profile/korv-labs-banner.svg" width="100%" alt="KORV Labs — Build. Innovate. Evolve." />
 
-<br/>
+# KORV Labs
 
-[![GitHub](https://img.shields.io/badge/GitHub-israelmarques1024--dotcom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/israelmarques1024-dotcom)
-[![Karnel Termux](https://img.shields.io/badge/Karnel%20Termux-Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karneltermux.vercel.app)
-[![Karnel NPM](https://img.shields.io/npm/v/karnel-termux?style=for-the-badge&logo=npm&label=karnel-termux)](https://www.npmjs.com/package/karnel-termux)
+**Independent technology lab · Software · AI · Digital products**
 
-**Construindo projetos reais, entendendo sistemas por dentro e transformando curiosidade em software.**
+Build. Innovate. Evolve.
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## About KORV Labs
 
-Desenvolvedor fullstack em formação, focado no ecossistema **JavaScript / Node.js** e especialmente interessado em sistemas, automação, Linux e ferramentas para desenvolvedores.
+KORV Labs is the umbrella brand for an independent technology ecosystem focused on building software, digital platforms, developer tools, and AI-powered experiences.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Each product keeps its own identity while sharing a common commitment to thoughtful engineering, useful technology, and continuous improvement.
 
-### 🎯 Foco atual
+## Product ecosystem
 
-- APIs REST e back-end
-- React + Vite
-- PostgreSQL e SQLite
-- Linux e Termux
-- CLIs e automação
-- Arquitetura e observabilidade
+| Project | Focus |
+| --- | --- |
+| [Nexus](https://nexus.devs.li/) | Social platform and digital community |
+| [Nearbit](https://github.com/karnel-termuxOFC/nearbit) | Lightweight local-network messaging |
+| [Kadris IDE](https://github.com/karnel-termuxOFC/kadris-ide) | Developer environment for desktop and local web runtimes |
+| [Karnel Termux](https://github.com/karnel-termuxOFC/karnel-termux) | Modular development environment and tools for Termux |
+| [Karnel Termux Docs](https://github.com/karnel-termuxOFC/karnel-termux-site) | Documentation and guides |
 
-</td>
-<td width="50%" valign="top">
+## What we build
 
-### 🧠 Como eu aprendo
+- **Software products:** web applications, platforms, and practical digital tools.
+- **Developer technology:** IDEs, command-line tools, integrations, and automation.
+- **AI and intelligent systems:** experiments and product experiences that apply AI where it adds value.
+- **Digital infrastructure:** services and systems designed to be maintained and improved over time.
 
-- construindo projetos reais
-- desmontando problemas complexos
-- testando hipóteses
-- buscando a causa raiz dos bugs
-- documentando o que aprendi
-- entendendo antes de abstrair
+## Feedback and collaboration
 
-</td>
-</tr>
-</table>
+Feedback, bug reports, and product suggestions are welcome. The best place to send them is the **Issues** section of the relevant public repository:
+
+- [Nearbit feedback](https://github.com/karnel-termuxOFC/nearbit/issues)
+- [Kadris IDE feedback](https://github.com/karnel-termuxOFC/kadris-ide/issues)
+- [Karnel Termux feedback](https://github.com/karnel-termuxOFC/karnel-termux/issues)
+- [Documentation feedback](https://github.com/karnel-termuxOFC/karnel-termux-site/issues)
+
+Nexus has its own in-app feedback area.
 
 ---
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-
-### Backend & Dados
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-### Ambiente & Ferramentas
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux" />
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Termux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-
-</div>
-
----
-
-## 📊 GitHub em números
-
-<div align="center">
-  <img width="49%" src="./profile/stats.svg" alt="Estatísticas do GitHub de Israel Marques" />
-  <img width="49%" src="./profile/top-langs.svg" alt="Linguagens mais usadas por Israel Marques" />
-  <br/>
-  <sub>Cards atualizados automaticamente pelo GitHub Actions e armazenados neste repositório.</sub>
-</div>
-
----
-
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/israelmarques1024-dotcom/karnel-termux">
-  <img width="49%" src="./profile/karnel-termux.svg" alt="Card do projeto Karnel Termux" />
-</a>
-<a href="https://github.com/israelmarques1024-dotcom/nearbit">
-  <img width="49%" src="./profile/nearbit.svg" alt="Card do projeto Nearbit" />
-</a>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Karnel Termux
-
-Ecossistema de ferramentas para desenvolvimento no **Termux**, focado em instalação, automação e experiência de desenvolvimento no Android.
-
-`CLI` · `automação` · `Linux` · `tooling` · `developer experience`
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/israelmarques1024-dotcom/karnel-termux)
-[![Site](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel)](https://karneltermux.vercel.app)
-[![npm](https://img.shields.io/npm/v/karnel-termux?style=flat-square&logo=npm)](https://www.npmjs.com/package/karnel-termux)
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 Nearbit
-
-Projeto de comunicação entre dispositivos, explorando mensageria, interfaces web/desktop e comunicação em rede.
-
-`networking` · `mensageria` · `web` · `desktop` · `device communication`
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/israelmarques1024-dotcom/nearbit)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧭 Em evolução
-
-```text
-Backend & APIs       ██████████  foco alto
-Linux & Termux       ██████████  foco alto
-Automação / CLIs     █████████░  construindo
-Frontend / React     ████████░░  evoluindo
-Bancos de dados      ████████░░  evoluindo
-Arquitetura          ███████░░░  aprofundando
-```
-
-<sub>Essas barras representam foco atual de estudo e construção — não nível de proficiência.</sub>
-
----
-
-## ⚡ Meu fluxo
-
-<div align="center">
-
-`entender` → `arquitetar` → `construir` → `testar` → `corrigir` → `documentar` → `evoluir`
-
-</div>
-
----
-
-## 🔗 Onde me encontrar
-
-<div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/israelmarques1024-dotcom)
-[![Karnel Website](https://img.shields.io/badge/Karnel%20Termux-Site-000000?style=for-the-badge&logo=vercel)](https://karneltermux.vercel.app)
-[![Karnel Repository](https://img.shields.io/badge/Karnel%20Termux-Repo-181717?style=for-the-badge&logo=github)](https://github.com/israelmarques1024-dotcom/karnel-termux)
-[![Nearbit](https://img.shields.io/badge/Nearbit-Repo-181717?style=for-the-badge&logo=github)](https://github.com/israelmarques1024-dotcom/nearbit)
-
-<br/><br/>
-
-<img src="./profile/footer.svg" width="100%" alt="Curiosidade, conhecimento e sistemas que funcionam" />
-
-**Se algum projeto for útil para você, uma ⭐ ajuda bastante.**
+**KORV Labs**  
+*Independent thinking. Limitless technology.*
 
 </div>
