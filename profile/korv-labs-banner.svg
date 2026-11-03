@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">KORV Labs</title>
+  <desc id="desc">KORV Labs — independent technology lab. Build. Innovate. Evolve.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="1" stop-color="#101D3C"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#39C7FF"/>
+      <stop offset=".55" stop-color="#1768FF"/>
+      <stop offset="1" stop-color="#604BFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <path d="M0 256 360 0h200L180 320H0z" fill="#155BFF" opacity=".08"/>
+  <path d="M930 0h270v320H760z" fill="#2C59FF" opacity=".08"/>
+  <g transform="translate(64 54)">
+    <path d="M0 0h54v86L138 0h64l-98 108 100 104h-67l-83-87v87H0z" fill="url(#blue)"/>
+    <path d="M54 86 138 0h64l-98 108z" fill="#9BE8FF" opacity=".3"/>
+  </g>
+  <text x="300" y="145" fill="#F7FAFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="88" font-weight="800" letter-spacing="7">KORV</text>
+  <text x="305" y="207" fill="#66BFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="600" letter-spacing="15">LABS</text>
+  <text x="306" y="258" fill="#CAD6F4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" letter-spacing="1.5">BUILD. INNOVATE. EVOLVE.</text>
+  <path d="M900 72v176" stroke="#376EFF" stroke-width="2" opacity=".65"/>
+  <text x="940" y="130" fill="#AFC5FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="2">INDEPENDENT</text>
+  <text x="940" y="162" fill="#AFC5FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="2">TECHNOLOGY</text>
+  <text x="940" y="194" fill="#AFC5FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="2">LAB</text>
+</svg>
