@@ -2,18 +2,22 @@
 
 <img src="./profile/korv-labs-banner.png" width="100%" alt="KORV Labs — Build. Innovate. Evolve." />
 
+<br />
+
 <img src="./profile/korv-labs-mark.png" width="136" alt="Símbolo KORV Labs" />
 
 <br />
 
-<a href="https://github.com/Korv-LabsOFC">
+<a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22B8FF&center=true&vCenter=true&width=900&lines=SOFTWARE+%E2%80%A2+DEVELOPER+TOOLS+%E2%80%A2+DIGITAL+PRODUCTS;BUILDING+IDEAS+INTO+USEFUL+TECHNOLOGY;INDEPENDENT+THINKING.+LIMITLESS+TECHNOLOGY." alt="KORV Labs animated tagline" />
 </a>
 
 <p>
-  <a href="https://github.com/Korv-LabsOFC?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-155EEF?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-155EEF?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
   <a href="https://nexus.devs.li/"><img src="https://img.shields.io/badge/OPEN-NEXUS-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Nexus" /></a>
-  <a href="https://karneltermux.vercel.app"><img src="https://img.shields.io/badge/KARNEL-DOCUMENTATION-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Karnel documentation" /></a>
+  <a href="https://karneltermux.vercel.app/"><img src="https://img.shields.io/badge/OPEN-KARNEL_TERMUX-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="Open Karnel Termux website" /></a>
+  <a href="https://github.com/Korv-LabsOFC/karnel-termux"><img src="https://img.shields.io/badge/KARNEL-CLI_REPOSITORY-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Karnel Termux CLI repository" /></a>
+  <a href="https://github.com/Korv-LabsOFC/karnel-termux-site"><img src="https://img.shields.io/badge/KARNEL-DOCUMENTATION_SOURCE-475569?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Karnel documentation source" /></a>
 </p>
 
 </div>
@@ -45,47 +49,90 @@ A ideia é transformar conceitos em produtos úteis: projetar, construir, testar
 
 ## ✦ Projetos em destaque
 
-<div align="center">
+Os cartões abaixo usam imagens mantidas neste próprio repositório. Assim, as prévias não dependem de serviços de estatísticas de terceiros.
 
-| **Karnel Termux** | **Kadris IDE** |
-|:---:|:---:|
-| <a href="https://github.com/Korv-LabsOFC/karnel-termux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korv-LabsOFC&repo=karnel-termux&theme=transparent&hide_border=true" width="100%" alt="Karnel Termux repository card" /></a> | <a href="https://github.com/Korv-LabsOFC/kadris-ide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korv-LabsOFC&repo=kadris-ide&theme=transparent&hide_border=true" width="100%" alt="Kadris IDE repository card" /></a> |
-| **Nearbit** | **Karnel Termux Docs** |
-| <a href="https://github.com/Korv-LabsOFC/nearbit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korv-LabsOFC&repo=nearbit&theme=transparent&hide_border=true" width="100%" alt="Nearbit repository card" /></a> | <a href="https://github.com/Korv-LabsOFC/karnel-termux-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korv-LabsOFC&repo=karnel-termux-site&theme=transparent&hide_border=true" width="100%" alt="Karnel documentation repository card" /></a> |
-| **Karnel Plugins** | **Karnel Env Paths** |
-| <a href="https://github.com/Korv-LabsOFC/karnel-plugins"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korv-LabsOFC&repo=karnel-plugins&theme=transparent&hide_border=true" width="100%" alt="Karnel plugins repository card" /></a> | <a href="https://github.com/Korv-LabsOFC/karnel-env-paths"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Korv-LabsOFC&repo=karnel-env-paths&theme=transparent&hide_border=true" width="100%" alt="Karnel env paths repository card" /></a> |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://nexus.devs.li/"><img src="./profile/projects/nexus.svg" width="100%" alt="Arte visual do projeto Nexus" /></a>
+      <h3>🌐 Nexus</h3>
+      Rede social e comunidade digital da KORV Labs.
+      <br />
+      <a href="https://nexus.devs.li/"><img src="https://img.shields.io/badge/OPEN-PRODUCT-06B6D4?style=flat-square" alt="Open Nexus" /></a>
+      <a href="https://github.com/Korv-LabsOFC/nexus"><img src="https://img.shields.io/badge/SOURCE-PRIVATE-64748B?style=flat-square" alt="Private source" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Korv-LabsOFC/nearbit"><img src="./profile/projects/nearbit.svg" width="100%" alt="Arte visual do projeto Nearbit" /></a>
+      <h3>💬 Nearbit</h3>
+      Mensagens em tempo real entre dispositivos na mesma rede local.
+      <br />
+      <a href="https://github.com/Korv-LabsOFC/nearbit"><img src="https://img.shields.io/badge/OPEN-REPOSITORY-2563EB?style=flat-square&logo=github" alt="Nearbit repository" /></a>
+      <img src="https://img.shields.io/badge/ALPHA-0.1.0-8B5CF6?style=flat-square" alt="Nearbit alpha" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Korv-LabsOFC/kadris-ide"><img src="./profile/projects/kadris-ide.svg" width="100%" alt="Arte visual do projeto Kadris IDE" /></a>
+      <h3>🧩 Kadris IDE</h3>
+      Ambiente de desenvolvimento para desktop e runtime web local.
+      <br />
+      <a href="https://github.com/Korv-LabsOFC/kadris-ide"><img src="https://img.shields.io/badge/OPEN-REPOSITORY-2563EB?style=flat-square&logo=github" alt="Kadris IDE repository" /></a>
+      <img src="https://img.shields.io/badge/ALPHA-0.1.0-8B5CF6?style=flat-square" alt="Kadris alpha" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://karneltermux.vercel.app/"><img src="./profile/projects/karnel-termux.svg" width="100%" alt="Arte visual do Karnel Termux e sua documentação" /></a>
+      <h3>⚙️ Karnel Termux + Docs</h3>
+      Ambiente modular para Termux no Android, acompanhado de site e documentação oficial.
+      <br />
+      <a href="https://github.com/Korv-LabsOFC/karnel-termux"><img src="https://img.shields.io/badge/CLI-REPOSITORY-0F766E?style=flat-square&logo=github" alt="Karnel Termux CLI" /></a>
+      <a href="https://karneltermux.vercel.app/"><img src="https://img.shields.io/badge/OPEN-WEBSITE-06B6D4?style=flat-square&logo=googlechrome" alt="Karnel website" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Korv-LabsOFC/karnel-plugins"><img src="./profile/projects/karnel-plugins.svg" width="100%" alt="Arte visual do registry Karnel Plugins" /></a>
+      <h3>🔌 Karnel Plugins</h3>
+      Registry de extensões revisadas, com manifestos, checksums e validação automatizada.
+      <br />
+      <a href="https://github.com/Korv-LabsOFC/karnel-plugins"><img src="https://img.shields.io/badge/OPEN-REGISTRY-8B5CF6?style=flat-square&logo=github" alt="Karnel plugins registry" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Korv-LabsOFC/karnel-env-paths"><img src="./profile/projects/karnel-env-paths.svg" width="100%" alt="Arte visual do utilitário Karnel Env Paths" /></a>
+      <h3>🧭 Karnel Env Paths</h3>
+      Utilitário para consultar versão do Karnel e caminhos de configuração, dados, cache e plugins.
+      <br />
+      <a href="https://github.com/Korv-LabsOFC/karnel-env-paths"><img src="https://img.shields.io/badge/OPEN-REPOSITORY-0F766E?style=flat-square&logo=github" alt="Karnel Env Paths repository" /></a>
+    </td>
+  </tr>
+</table>
 
-</div>
+## ✦ Conheça os projetos
 
 ### 🌐 Nexus — Social Network
 
-<a href="https://nexus.devs.li/">
-  <img src="https://img.shields.io/badge/ABRIR-NEXUS-155EEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir Nexus" />
-</a>
-<img src="https://img.shields.io/badge/PROJECT-SOCIAL_PLATFORM-06B6D4?style=for-the-badge" alt="Social platform" />
+<img src="./profile/projects/nexus.svg" width="100%" alt="Arte visual do projeto Nexus" />
 
 Uma plataforma social criada para conectar pessoas, comunidades e experiências digitais. O Nexus é um dos principais produtos do ecossistema KORV Labs e mantém sua própria identidade de marca.
 
 - **Produto:** [nexus.devs.li](https://nexus.devs.li/)
 - **Foco:** rede social, comunidade e experiências interativas.
-- **Código-fonte:** repositório privado.
+- **Código-fonte:** [repositório privado do Nexus](https://github.com/Korv-LabsOFC/nexus).
 
 ### 💬 Nearbit — Local Network Messaging
 
-<a href="https://github.com/Korv-LabsOFC/nearbit"><img src="https://img.shields.io/badge/REPOSITORY-Nearbit-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Nearbit repository" /></a>
-<img src="https://img.shields.io/badge/VERSION-0.1.0--alpha-8B5CF6?style=for-the-badge" alt="Nearbit alpha" />
+<img src="./profile/projects/nearbit.svg" width="100%" alt="Arte visual do projeto Nearbit" />
 
 Mensageiro em tempo real projetado para dispositivos conectados à mesma rede local. O projeto explora comunicação direta via HTTP, TCP e WebSockets, com servidor leve e interface responsiva.
 
 - Mensagens em tempo real e lista de usuários conectados.
 - Comunicação dentro da rede local, sem depender de um serviço externo de nuvem.
 - Base técnica: Node.js, Express, WebSocket, HTML, CSS e JavaScript.
+- **Versão:** `0.1.0-alpha`.
 - [Código-fonte e documentação](https://github.com/Korv-LabsOFC/nearbit).
 
 ### 🧩 Kadris IDE — Developer Environment
 
-<a href="https://github.com/Korv-LabsOFC/kadris-ide"><img src="https://img.shields.io/badge/REPOSITORY-Kadris_IDE-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Kadris IDE repository" /></a>
-<img src="https://img.shields.io/badge/VERSION-0.1.0--alpha.0-8B5CF6?style=for-the-badge" alt="Kadris alpha" />
+<img src="./profile/projects/kadris-ide.svg" width="100%" alt="Arte visual do projeto Kadris IDE" />
 
 Ambiente de desenvolvimento com interface compartilhada para desktop e runtime web local. Reúne recursos de edição, terminal e gerenciamento de projetos em uma única experiência.
 
@@ -93,17 +140,26 @@ Ambiente de desenvolvimento com interface compartilhada para desktop e runtime w
 - Pré-visualização, controles Git, busca global e restauração de sessão.
 - Integração opcional com Codex CLI.
 - Base técnica: TypeScript, React, Electron e Node.js.
+- **Versão:** `0.1.0-alpha.0`.
 - [Código-fonte](https://github.com/Korv-LabsOFC/kadris-ide).
 
-### ⚙️ Karnel Termux — Modular Development Environment
+### ⚙️ Karnel Termux — CLI, Website & Documentation
 
-<a href="https://github.com/Korv-LabsOFC/karnel-termux"><img src="https://img.shields.io/badge/REPOSITORY-Karnel_Termux-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Karnel Termux repository" /></a>
-<a href="https://karneltermux.vercel.app"><img src="https://img.shields.io/badge/OPEN-DOCUMENTATION-06B6D4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Karnel Termux docs" /></a>
-<img src="https://img.shields.io/badge/VERSION-4.18.8-0F766E?style=for-the-badge" alt="Karnel version 4.18.8" />
+<img src="./profile/projects/karnel-termux.svg" width="100%" alt="Arte visual compartilhada do Karnel Termux e sua documentação" />
 
-Uma CLI modular que transforma o Termux em um ambiente de desenvolvimento para Android. O projeto reúne ferramentas de IA, linguagens, bancos de dados, utilitários, editores, ferramentas de rede e opções de deploy.
+O **Karnel Termux** é um ambiente modular de desenvolvimento para Termux no Android. Ele reúne uma CLI para instalar e gerenciar ferramentas, linguagens, bancos de dados, utilitários, ferramentas de IA, plugins e recursos de desenvolvimento.
 
-| Módulo | O que reúne |
+O projeto é acompanhado pelo **site oficial e documentação**, que apresentam os comandos, módulos, tutoriais e guias de uso. A CLI e o site fazem parte do mesmo projeto e compartilham esta identidade visual.
+
+| Parte | Acesso |
+| --- | --- |
+| **Karnel Termux — CLI e código principal** | [Abrir repositório](https://github.com/Korv-LabsOFC/karnel-termux) |
+| **Site oficial / documentação** | [karneltermux.vercel.app](https://karneltermux.vercel.app/) |
+| **Código-fonte do site e documentação** | [Repositório Karnel Termux Site](https://github.com/Korv-LabsOFC/karnel-termux-site) |
+
+**O que o Karnel reúne:**
+
+| Módulo | O que oferece |
 | --- | --- |
 | 🤖 IA | Gerenciamento de ferramentas e agentes de IA |
 | 💻 Linguagens | Node.js, Python, Go, Rust, C/C++, PHP, Perl e Bun |
@@ -112,24 +168,13 @@ Uma CLI modular que transforma o Termux em um ambiente de desenvolvimento para A
 | 🔌 Plugins | Descoberta e instalação de extensões do registry |
 | 🚀 Deploy | CLIs para plataformas de deploy e serviços |
 
-- Desenvolvido especificamente para Termux no Android.
-- [Repositório principal](https://github.com/Korv-LabsOFC/karnel-termux).
-
-### 📚 Karnel Termux Docs — Official Documentation
-
-<a href="https://github.com/Korv-LabsOFC/karnel-termux-site"><img src="https://img.shields.io/badge/REPOSITORY-Karnel_Docs-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Karnel documentation repository" /></a>
-<a href="https://karneltermux.vercel.app"><img src="https://img.shields.io/badge/LIVE-SITE-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Karnel documentation website" /></a>
-
-Site oficial de documentação do Karnel Termux, com guias, catálogo de ferramentas e referências dos comandos e módulos da CLI.
-
-- Guias de instalação, diagnóstico e desenvolvimento.
-- Conteúdo sobre IA, plugins, banco de dados, deploy, segurança, rede e utilitários.
-- Interface responsiva para desktop e dispositivos móveis.
-- [Repositório da documentação](https://github.com/Korv-LabsOFC/karnel-termux-site).
+- **Versão do CLI:** `4.18.8`.
+- **Plataforma:** Termux no Android.
+- [Abrir o site do Karnel Termux](https://karneltermux.vercel.app/).
 
 ### 🔌 Karnel Plugins — Reviewed Plugin Registry
 
-<a href="https://github.com/Korv-LabsOFC/karnel-plugins"><img src="https://img.shields.io/badge/REPOSITORY-Karnel_Plugins-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Karnel plugins repository" /></a>
+<img src="./profile/projects/karnel-plugins.svg" width="100%" alt="Arte visual do projeto Karnel Plugins" />
 
 Registry de plugins para o Karnel Termux. Possui manifesto padronizado, validação de schema, verificação de integridade e verificações automatizadas de CI para as entradas aprovadas.
 
@@ -138,17 +183,31 @@ Registry de plugins para o Karnel Termux. Possui manifesto padronizado, validaç
 - Processo de revisão e validação automatizada.
 - [Explorar o registry](https://github.com/Korv-LabsOFC/karnel-plugins).
 
----
-
 ## 🧪 Outros projetos e experimentos
 
-| Projeto | Descrição |
-| --- | --- |
-| [Karnel Env Paths](https://github.com/Korv-LabsOFC/karnel-env-paths) | Utilitário de diagnóstico que mostra versão do Karnel e caminhos XDG de configuração, dados, cache, plugins e prefixo Termux. |
-| [Capivara Tech Login](https://github.com/Korv-LabsOFC/projeto-login-capivara-tech) | Projeto de aprendizado com Node.js, Express e SQLite, explorando cadastro, autenticação e persistência. |
-| [Login UI Experiment](https://github.com/Korv-LabsOFC/Roubador-de-dados-simples-) | Experimento de front-end com HTML, CSS e JavaScript para estudar telas de login e validação; não possui banco de dados. |
+### 🧭 Karnel Env Paths
 
-Esses projetos também fazem parte da trajetória de desenvolvimento da KORV Labs: desde protótipos e estudos até ferramentas e produtos mais completos.
+<img src="./profile/projects/karnel-env-paths.svg" width="100%" alt="Arte visual do Karnel Env Paths" />
+
+Utilitário de diagnóstico que exibe a versão ativa do Karnel e os caminhos XDG de configuração, dados, cache, plugins e prefixo do Termux.
+
+[Ver repositório](https://github.com/Korv-LabsOFC/karnel-env-paths).
+
+### 🦫 Capivara Tech Login
+
+<img src="./profile/projects/capivara-tech.svg" width="100%" alt="Arte ilustrativa do projeto Capivara Tech Login" />
+
+Projeto de aprendizado com Node.js, Express e SQLite, explorando cadastro, autenticação, rotas e persistência de dados. Um dos primeiros experimentos de backend do portfólio.
+
+[Ver repositório](https://github.com/Korv-LabsOFC/projeto-login-capivara-tech).
+
+### 🔐 Login UI Experiment
+
+<img src="./profile/projects/login-ui-lab.svg" width="100%" alt="Arte ilustrativa do experimento de interface de login" />
+
+Experimento front-end com HTML, CSS e JavaScript para estudar telas de login, validação de formulários e feedback visual. Não possui banco de dados.
+
+[Ver repositório](https://github.com/Korv-LabsOFC/Roubador-de-dados-simples-).
 
 ## 🛠️ Tecnologias
 

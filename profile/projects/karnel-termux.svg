@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="700" viewBox="0 0 1440 700" role="img" aria-labelledby="title desc">
+<title>KARNEL TERMUX — KORV Labs project artwork</title>
+<desc>Illustrative project artwork for KARNEL TERMUX, part of the KORV Labs software portfolio. This is a visual illustration, not a screenshot of the live application.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101F"/><stop offset=".55" stop-color="#0B1B35"/><stop offset="1" stop-color="#102B4B"/></linearGradient>
+ <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5EAAFF" stop-opacity=".48"/><stop offset="1" stop-color="#5EAAFF" stop-opacity="0"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5EAAFF"/><stop offset="1" stop-color="#3867E8"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="36"/></filter>
+</defs>
+<rect width="1440" height="700" fill="url(#bg)"/>
+<circle cx="220" cy="90" r="210" fill="url(#glow)" filter="url(#blur)"/>
+<circle cx="1250" cy="610" r="250" fill="url(#glow)" filter="url(#blur)"/>
+<g opacity=".16" stroke="#8DB9ED" stroke-width="1"><path d="M0 80H1440M0 620H1440M100 0V700M1340 0V700"/><path d="M0 350H1440" stroke-dasharray="4 14"/></g>
+<g><rect x="150" y="165" width="1140" height="390" rx="28" fill="#081526" stroke="#2D6C9F" stroke-width="2"/>
+      <rect x="150" y="165" width="1140" height="55" rx="28" fill="#102842"/>
+      <circle cx="190" cy="192" r="8" fill="#F16D87"/><circle cx="218" cy="192" r="8" fill="#EAC66B"/><circle cx="246" cy="192" r="8" fill="#59D7A1"/>
+      <rect x="300" y="184" width="230" height="16" rx="8" fill="#294F76"/>
+      <text x="205" y="278" fill="#8BE7FF" font-family="monospace" font-size="23">$ karnel status</text>
+      <text x="205" y="324" fill="#D3EDFF" font-family="monospace" font-size="20">✓ environment ready</text>
+      <text x="205" y="366" fill="#70DDBF" font-family="monospace" font-size="20">✓ modules available</text>
+      <text x="205" y="408" fill="#91B8FF" font-family="monospace" font-size="20">✓ tools synchronized</text>
+      <rect x="205" y="448" width="420" height="12" rx="6" fill="#1C4A72"/>
+      <rect x="205" y="448" width="300" height="12" rx="6" fill="#31B7D5"/>
+      <g>
+       <rect x="720" y="255" width="220" height="112" rx="18" fill="#102C4B" stroke="#337CB4"/><circle cx="770" cy="307" r="23" fill="#1B9BCB"/><rect x="810" y="292" width="92" height="9" rx="4" fill="#D4F1FF"/><rect x="810" y="316" width="70" height="8" rx="4" fill="#4B779D"/>
+       <rect x="980" y="255" width="220" height="112" rx="18" fill="#102C4B" stroke="#337CB4"/><circle cx="1030" cy="307" r="23" fill="#3276E5"/><rect x="1070" y="292" width="92" height="9" rx="4" fill="#D4F1FF"/><rect x="1070" y="316" width="70" height="8" rx="4" fill="#4B779D"/>
+       <rect x="720" y="395" width="220" height="112" rx="18" fill="#102C4B" stroke="#337CB4"/><circle cx="770" cy="448" r="23" fill="#1C9F7D"/><rect x="810" y="432" width="92" height="9" rx="4" fill="#D4F1FF"/><rect x="810" y="456" width="70" height="8" rx="4" fill="#4B779D"/>
+       <rect x="980" y="395" width="220" height="112" rx="18" fill="#102C4B" stroke="#337CB4"/><circle cx="1030" cy="448" r="23" fill="#7869D9"/><rect x="1070" y="432" width="92" height="9" rx="4" fill="#D4F1FF"/><rect x="1070" y="456" width="70" height="8" rx="4" fill="#4B779D"/>
+      </g></g>
+<text x="112" y="620" fill="#F5FAFF" font-family="Inter,Arial,sans-serif" font-size="42" font-weight="800" letter-spacing="3">KARNEL TERMUX</text>
+<text x="114" y="658" fill="#5EAAFF" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="5">ANDROID DEVELOPMENT TOOLKIT</text>
+<text x="1328" y="648" text-anchor="end" fill="#829BB9" font-family="Inter,Arial,sans-serif" font-size="14" letter-spacing="3">KORV LABS / PROJECT VISUAL</text>
+</svg>
