@@ -23,10 +23,10 @@ Each product keeps its own identity while sharing a common commitment to thought
 | Project | Focus |
 | --- | --- |
 | [Nexus](https://nexus.devs.li/) | Social platform and digital community |
-| [Nearbit](https://github.com/karnel-termuxOFC/nearbit) | Lightweight local-network messaging |
-| [Kadris IDE](https://github.com/karnel-termuxOFC/kadris-ide) | Developer environment for desktop and local web runtimes |
-| [Karnel Termux](https://github.com/karnel-termuxOFC/karnel-termux) | Modular development environment and tools for Termux |
-| [Karnel Termux Docs](https://github.com/karnel-termuxOFC/karnel-termux-site) | Documentation and guides |
+| [Nearbit](https://github.com/Korv-LabsOFC/nearbit) | Lightweight local-network messaging |
+| [Kadris IDE](https://github.com/Korv-LabsOFC/kadris-ide) | Developer environment for desktop and local web runtimes |
+| [Karnel Termux](https://github.com/Korv-LabsOFC/karnel-termux) | Modular development environment and tools for Termux |
+| [Karnel Termux Docs](https://github.com/Korv-LabsOFC/karnel-termux-site) | Documentation and guides |
 
 ## What we build
 
@@ -39,10 +39,10 @@ Each product keeps its own identity while sharing a common commitment to thought
 
 Feedback, bug reports, and product suggestions are welcome. The best place to send them is the **Issues** section of the relevant public repository:
 
-- [Nearbit feedback](https://github.com/karnel-termuxOFC/nearbit/issues)
-- [Kadris IDE feedback](https://github.com/karnel-termuxOFC/kadris-ide/issues)
-- [Karnel Termux feedback](https://github.com/karnel-termuxOFC/karnel-termux/issues)
-- [Documentation feedback](https://github.com/karnel-termuxOFC/karnel-termux-site/issues)
+- [Nearbit feedback](https://github.com/Korv-LabsOFC/nearbit/issues)
+- [Kadris IDE feedback](https://github.com/Korv-LabsOFC/kadris-ide/issues)
+- [Karnel Termux feedback](https://github.com/Korv-LabsOFC/karnel-termux/issues)
+- [Documentation feedback](https://github.com/Korv-LabsOFC/karnel-termux-site/issues)
 
 Nexus has its own in-app feedback area.
 
