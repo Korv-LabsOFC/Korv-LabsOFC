@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/korv-labs-banner.svg" width="100%" alt="KORV Labs — Build. Innovate. Evolve." />
+<img src="./profile/korv-labs-banner.png" width="100%" alt="KORV Labs — Build. Innovate. Evolve." />
 
 # KORV Labs
 
